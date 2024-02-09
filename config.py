@@ -1,0 +1,6 @@
+host = '127.0.0.1'
+port = '5432'
+user = 'postgres'
+password = '12345678'
+database = 'postgres'
+table_name = 'user_actions_per_date'
